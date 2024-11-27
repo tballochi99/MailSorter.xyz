@@ -81,7 +81,7 @@ const MailSorter = () => {
             <div className="text-destructive text-sm">{error}</div>
           )}
         </CardContent>
-      </Card>
+      </Card> 
     </div>
   );
 };
