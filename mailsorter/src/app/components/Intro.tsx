@@ -8,7 +8,7 @@ const Intro = () => (
   <section className="bg-background min-h-screen flex items-center">
     <div className="container mx-auto px-4 py-12">
       <div className="space-y-12">
-        <div className="text-center max-w-3xl mx-auto hover:scale-105 transition-transform duration-300">
+        <div className="text-center max-w-3xl mx-auto">
           <h1 className="text-5xl font-bold text-foreground mb-6">
             Advanced Email Sorter
           </h1>
