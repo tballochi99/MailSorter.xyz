@@ -1,5 +1,4 @@
 import './globals.css'
-import GoogleAdsense from './components/GoogleAdsense'
 import type { Metadata } from 'next'
 import Script from 'next/script'
 
@@ -147,7 +146,6 @@ export default function RootLayout({
             }
           `}
         </Script>
-        <GoogleAdsense />
         {children}
       </body>
     </html>
