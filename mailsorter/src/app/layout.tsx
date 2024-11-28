@@ -1,4 +1,5 @@
 import './globals.css'
+import GoogleAdsense from './components/GoogleAdsense'
 import type { Metadata } from 'next'
 import Script from 'next/script'
 
@@ -86,6 +87,7 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <meta name="theme-color" content="#ffffff" />
+        <meta name="google-adsense-account" content="ca-pub-8161218394245302" />
       </head>
       <body className="min-h-screen">
         <Script id="schema-organization" type="application/ld+json">
@@ -145,6 +147,7 @@ export default function RootLayout({
             }
           `}
         </Script>
+        <GoogleAdsense />
         {children}
       </body>
     </html>
