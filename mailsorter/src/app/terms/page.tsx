@@ -47,7 +47,7 @@ export default function Terms() {
           <Link href="/" className="inline-block mb-8">
             <Button variant="ghost" className="gap-2 hover:scale-105 transition-transform">
               <ArrowLeft className="h-4 w-4" />
-              Back to Home
+              Back to MailSorter
             </Button>
           </Link>
           
