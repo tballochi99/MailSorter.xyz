@@ -51,16 +51,6 @@ export const metadata: Metadata = {
       }
     ],
   },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'Free Email List Sorter Tool',
-    description: 'Clean, sort and validate your email lists efficiently. Process your lists securely in your browser.',
-    creator: '@mailsorter',
-    images: {
-      url: 'https://www.mailsorter.xyz/twitter-image.jpg',
-      alt: 'MailSorter Email List Management Tool'
-    },
-  },
   robots: {
     index: true,
     follow: true,
