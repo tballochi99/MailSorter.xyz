@@ -1,5 +1,22 @@
 User-agent: *
 Allow: /
+Allow: /favicon.ico
+Allow: /apple-icon-57x57.png
+Allow: /apple-icon-60x60.png
+Allow: /apple-icon-72x72.png
+Allow: /apple-icon-76x76.png
+Allow: /apple-icon-114x114.png
+Allow: /apple-icon-120x120.png
+Allow: /apple-icon-144x144.png
+Allow: /apple-icon-152x152.png
+Allow: /apple-icon-180x180.png
+Allow: /android-icon-192x192.png
+Allow: /favicon-32x32.png
+Allow: /favicon-96x96.png
+Allow: /favicon-16x16.png
+Allow: /manifest.json
+Allow: /ms-icon-144x144.png
+
 Sitemap: https://www.mailsorter.xyz/sitemap.xml
 
 Disallow: /api/
