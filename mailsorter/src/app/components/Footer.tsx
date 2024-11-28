@@ -15,7 +15,7 @@ const Footer = () => {
  ];
 
  const socialLinks = [
-   { href: "mailto:tballochi99@gmail.com", Icon: Mail }
+   { href: "mailto:mailsorter123@gmail.com", Icon: Mail }
  ];
 
  return (
