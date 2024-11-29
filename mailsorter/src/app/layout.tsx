@@ -5,10 +5,10 @@ import Script from 'next/script'
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.mailsorter.xyz'),
   title: {
-    default: 'Email List Sorter Tool - Clean & Validate Mailing Lists | MailSorter',
+    default: 'Email List Sorter Tool - Clean & Validate | MailSorter',
     template: '%s | MailSorter - Email List Sorting Solution'
   },
-  description: 'Advanced email list processing tool for businesses and marketers. Clean, validate, and optimize your email lists instantly. Remove duplicates, verify formats, and ensure deliverability with our secure, browser-based solution.',
+  description: 'Advanced email list tool: clean, validate, and optimize lists. Remove duplicates and ensure deliverability with our secure, browser-based solution.',
   keywords: [
     'email list sorter',
     'email list validator',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     locale: 'en_US',
     url: 'https://www.mailsorter.xyz',
     siteName: 'MailSorter',
-    title: 'Email List Sorter Tool - Clean & Validate Mailing Lists | MailSorter',
+    title: 'Email List Sorter Tool - Clean & Validate | MailSorter',
     description: 'Transform your email lists with our powerful sorting and validation tool. Sort, clean and validate your email lists securely in your browser.',
     images: [
       {
